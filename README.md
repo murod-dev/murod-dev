@@ -104,3 +104,4 @@ Focus:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,100:0b1220" alt="Footer wave" />
 </p>
+<!-- profile-refresh -->
