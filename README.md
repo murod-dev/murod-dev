@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1220,45:0f766e,100:06b6d4&text=Murod%20Dev&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20QR%20Menu%20Systems%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" alt="Murod Dev banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1220,45:0f766e,100:06b6d4&text=Rozmamatov%20Murodbek&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Student&descAlignY=58&descSize=18" alt="Rozmamatov Murodbek banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&lines=Building+Restaurant+Tech+Systems;QR+Menu+%26+Admin+Panels;Telegram+Automation;Clean+Backend+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Backend+Developer;AI+Engineering;HTML+CSS+JavaScript;Node.js+React+Python" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,23 +11,19 @@
 ## About
 
 ```yaml
-Name: Murod
+Name: Rozmamatov Murodbek
 Username: murod-dev
-Role: Backend Developer & Web App Builder
-Location: Uzbekistan
-
-Main Project:
-  - Sarabiy KFC QR Menu
-  - Restaurant admin panel
-  - Mobile friendly menu website
-  - Product, category and image management
+Role: Backend Developer, AI Engineering
+Status: Student
+Location: Qoraqalpog'iston, Ellikqal'a tumani
+Telegram: Murod_dev14
 
 Focus:
-  - Node.js backend systems
-  - QR menu platforms
-  - Admin dashboards
-  - Telegram automation
-  - Deployment and server setup
+  - Backend development
+  - AI Engineering
+  - Web applications
+  - QR menu systems
+  - Admin panels
 ```
 
 ---
@@ -35,14 +31,19 @@ Focus:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,vite,postgres,sqlite,git,github,nginx,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github,python" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-06b6d4?style=for-the-badge&logo=javascript&logoColor=white" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Admin%20Panel-Business%20Tools-f59e0b?style=for-the-badge" alt="Admin Panel" />
-  <img src="https://img.shields.io/badge/Deploy-Nginx%20Linux-16a34a?style=for-the-badge&logo=nginx&logoColor=white" alt="Deploy" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-06b6d4?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
@@ -52,9 +53,9 @@ Focus:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Sarabiy KFC QR Menu</h3>
+      <h3 align="center">QR Menu</h3>
       <p align="center">
-        A restaurant QR menu with a public mobile menu, admin panel, product images, categories, statuses and persistent menu data.
+        Restaurant QR menu system with a public menu, admin panel, categories, product images and menu data management.
       </p>
       <p align="center">
         <a href="https://github.com/murod-dev/qr-menu">
@@ -63,12 +64,12 @@ Focus:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">What I Build</h3>
+      <h3 align="center">Learning & Building</h3>
       <p align="center">
-        Practical web systems for real business use: menus, dashboards, automation flows, deployment scripts and backend APIs.
+        Backend development, AI Engineering, web apps and practical tools built with HTML, CSS, JavaScript, Node.js, React and Python.
       </p>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=390&lines=Fast+web+apps;Clean+admin+panels;Useful+automation;Production+deploys" alt="Build list" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=420&lines=Backend+Developer;AI+Engineering;Student;Building+real+projects" alt="Build list" />
       </p>
     </td>
   </tr>
@@ -91,8 +92,8 @@ Focus:
   <a href="https://github.com/murod-dev">
     <img src="https://img.shields.io/badge/GitHub-murod--dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/sarabiykfc">
-    <img src="https://img.shields.io/badge/Telegram-sarabiykfc-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/Murod_dev14">
+    <img src="https://img.shields.io/badge/Telegram-Murod__dev14-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
