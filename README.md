@@ -59,7 +59,7 @@ Focus:
       </p>
       <p align="center">
         <a href="https://github.com/murod-dev/qr-menu">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=murod-dev&repo=qr-menu&theme=tokyonight&hide_border=true" alt="QR Menu repository" />
+          <img src="https://img.shields.io/badge/Open%20Repository-QR%20Menu-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="QR Menu repository" />
         </a>
       </p>
     </td>
@@ -80,8 +80,12 @@ Focus:
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=murod-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murod-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murod-dev&theme=tokyonight" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murod-dev&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murod-dev&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
