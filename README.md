@@ -1,107 +1,96 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1220,45:0f766e,100:06b6d4&text=Rozmamatov%20Murodbek&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Student&descAlignY=58&descSize=18" alt="Rozmamatov Murodbek banner" />
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0b1220&height=180&section=header&text=Rozmamatov%20Murodbek&fontSize=60&fontColor=ffffff" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Backend+Developer;AI+Engineering;HTML+CSS+JavaScript;Node.js+React+Python" alt="Typing SVG" />
-</p>
+<div align="center">
+  <h1>Rozmamatov Murodbek</h1>
+  <p><strong>AI Engineer • SaaS Architect • Backend Developer</strong></p>
+  <h3>Building Scalable AI Systems</h3>
+  
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+Engineering;Web+Applications;Problem+Solver" alt="Typing animation" />
+  </div>
+</div>
 
 ---
 
-## About
+## 🔗 About Me
+
+I'm a **Backend Developer** and **AI Engineer** focused on building scalable systems and innovative solutions. Currently a student in Qoraqalpog'iston, working on real-world projects and continuously learning new technologies.
 
 ```yaml
-Name: Rozmamatov Murodbek
-Username: murod-dev
-Role: Backend Developer, AI Engineering
-Status: Student
-Location: Qoraqalpog'iston, Ellikqal'a tumani
-Telegram: Murod_dev14
+👤 Name: Rozmamatov Murodbek
+🔗 GitHub: murod-dev
+💼 Role: Backend Developer, AI Engineering
+🎓 Status: Student
+📍 Location: Qoraqalpog'iston, Ellikqal'a tumani
+💬 Telegram: Murod_dev14
 
-Focus:
-  - Backend development
-  - AI Engineering
-  - Web applications
-  - QR menu systems
-  - Admin panels
+🎯 Focus Areas:
+   ⚙️ Backend Development
+   🤖 AI & Machine Learning
+   🌐 Web Applications
+   📱 QR Menu Systems
+   🎨 Admin Panels
 ```
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github,python" alt="Tech stack" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,git,github,mongodb,postgresql" alt="Tech Stack" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-06b6d4?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">QR Menu</h3>
-      <p align="center">
-        Restaurant QR menu system with a public menu, admin panel, categories, product images and menu data management.
-      </p>
-      <p align="center">
-        <a href="https://github.com/murod-dev/qr-menu">
-          <img src="https://img.shields.io/badge/Open%20Repository-QR%20Menu-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="QR Menu repository" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Learning & Building</h3>
-      <p align="center">
-        Backend development, AI Engineering, web apps and practical tools built with HTML, CSS, JavaScript, Node.js, React and Python.
-      </p>
-      <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=420&lines=Backend+Developer;AI+Engineering;Student;Building+real+projects" alt="Build list" />
-      </p>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murod-dev&theme=tokyonight" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murod-dev&theme=tokyonight" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murod-dev&theme=tokyonight" alt="Top languages" />
-</p>
+| Project | Description |
+|---------|-------------|
+| **QR Menu System** | Restaurant QR menu with public menu, admin panel, categories, product management and dynamic data handling. [🔗 Repository](https://github.com/murod-dev/qr-menu) |
+| **AI Solutions** | Building intelligent systems with Python, machine learning and backend integration for real-world problems. |
+| **Web Applications** | Modern full-stack web apps built with React, Node.js and MongoDB for scalable solutions. |
 
 ---
 
-## Contact
+## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/murod-dev">
-    <img src="https://img.shields.io/badge/GitHub-murod--dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/Murod_dev14">
-    <img src="https://img.shields.io/badge/Telegram-Murod__dev14-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murod-dev&theme=tokyonight" alt="GitHub Profile Details" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,100:0b1220" alt="Footer wave" />
-</p>
-<!-- profile-refresh -->
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murod-dev&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murod-dev&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-murod--dev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murod-dev)
+[![Telegram](https://img.shields.io/badge/Telegram-Murod__dev14-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Murod_dev14)
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:06b6d4&height=120&section=footer" />
+</div>
